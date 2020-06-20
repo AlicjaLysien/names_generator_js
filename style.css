@@ -1,0 +1,59 @@
+h1
+{
+	padding-top:30px;
+	padding-bottom: 40px;
+	text-align: center;
+	font-size: 50px;
+	color: black;
+	font-weight: 500;
+	font-family: cambria;
+}
+
+.mainbotton
+{
+	width:400px;
+	height:70px;
+	display: table;
+    margin: 0 auto;
+	font-size: 28px;
+    font-family: cambria;
+}
+
+.divbutton
+{
+	width:400px;
+	height:70px;
+	display: table;
+	margin: 0 auto;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+a hover
+{
+	text-decoration: none;
+}
+
+#back
+{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.generate
+{
+	background-color: #ffffff;
+	width:200px;
+	height:40px;
+	display: table;
+	margin: 0 auto;
+	font-size: 24px;
+	font-family: cambria;
+	text-align: center;
+	padding-top: 10px;
+}
+
